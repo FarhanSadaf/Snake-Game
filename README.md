@@ -1,6 +1,6 @@
 # Snake-Game
 A fun little project done while learning PyGame.
 
-# Requrements
+## Requirements
 - Python 3.x (32 bit)
 - PyGame
